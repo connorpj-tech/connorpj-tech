@@ -8,8 +8,12 @@ IT support specialist building practical projects for real world scnerios
 
 <h2> Certifications</h2>
 -CompTIA Security+
+
+-CompTIA Network+
   
 -CompTIA A+
+
+-Microsoft Az-900
 
 
 
