@@ -5,7 +5,7 @@ IT support specialist building practical projects for real world scnerios
   <h2>👨‍💻 Active Directory:</h2>
 
 - <b>[Configuring Active Directory Server](https://github.com/connorpj-tech/Active-Directory-Server)
-- <b>[Group Policy Management]()
+- <b>[Organizational Units and Adding Users](https://github.com/connorpj-tech/Organizational-Units-and-User-Accounts)
 - <b>[Password Reset]()
 - <b>[Implementing Security Policies]()
 
