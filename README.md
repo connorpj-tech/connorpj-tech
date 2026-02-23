@@ -8,7 +8,7 @@ IT support specialist building practical projects for real world scnerios
 - <b>[Organizational Units and Creating Users](https://github.com/connorpj-tech/Organizational-Units-and-User-Accounts)
 - <b>[Adding a Computer to Active Directory](https://github.com/connorpj-tech/Adding-a-Computer-to-Active-Directory/tree/main)
 - <b>[Assigning a User to a Workstation](https://github.com/connorpj-tech/Assigning-a-User-to-a-Workstation)
-- <b>[Password Reset]()
+- <b>[Password Reset](https://github.com/connorpj-tech/Password-Reset)
 - <b>[Implementing Security Policies]()
 
   <h2> ServiceNow:</h2>
