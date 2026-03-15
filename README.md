@@ -9,7 +9,8 @@ IT support specialist building practical projects for real world scnerios
 - <b>[Adding a Computer to Active Directory](https://github.com/connorpj-tech/Adding-a-Computer-to-Active-Directory/tree/main)
 - <b>[Assigning a User to a Workstation](https://github.com/connorpj-tech/Assigning-a-User-to-a-Workstation)
 - <b>[Password Reset](https://github.com/connorpj-tech/Password-Reset)
-- <b>[Implementing Security Policies]()
+- <b>[Security Group Policy](https://github.com/connorpj-tech/Security-Group-Policy)
+- <b>[Creating a Shared Folder](https://github.com/connorpj-tech/Creating-A-Shared-Folder)
 
   <h2> ServiceNow:</h2>
 -<h2> Certifications</h2>
