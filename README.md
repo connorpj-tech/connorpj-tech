@@ -13,6 +13,9 @@ IT support specialist building practical projects for real world scnerios
 - <b>[Creating a Shared Folder](https://github.com/connorpj-tech/Creating-A-Shared-Folder)
 
   <h2> ServiceNow:</h2>
+
+- <b>[Managing A Service Ticket In ServiceNow](https://github.com/connorpj-tech/Managing-a-Support-Ticket)
+
 -<h2> Certifications</h2>
 
 -CompTIA Security+
