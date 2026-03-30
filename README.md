@@ -15,16 +15,15 @@ IT support specialist building practical projects for real world scnerios
   <h2> ServiceNow:</h2>
 
 - <b>[Managing A Service Ticket In ServiceNow](https://github.com/connorpj-tech/Managing-a-Support-Ticket)
+  <h2> Certifications:</h2>
 
--<h2> Certifications</h2>
+- <b>CompTIA Security+
 
--CompTIA Security+
-
--CompTIA Network+
+- <b>CompTIA Network+
   
--CompTIA A+
+- <b>CompTIA A+
 
--Microsoft Az-900
+- <b>Microsoft Az-900
 
 
 
