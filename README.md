@@ -14,7 +14,8 @@ IT support specialist building practical projects for real world scnerios
 
 ## ServiceNow:
 
-- <b>[Managing A Service Ticket In ServiceNow](https://github.com/connorpj-tech/Managing-a-Support-Ticket)
+  - [Managing A Service Ticket In ServiceNow](https://github.com/connorpj-tech/Managing-a-Support-Ticket)
+  - [Filtering and Organizing Tickets](https://github.com/connorpj-tech/Filtering-and-Organizing-Tickets)
 ## Certifications:
 
 - <b>CompTIA Security+
