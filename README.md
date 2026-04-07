@@ -1,7 +1,7 @@
 ## Hi, I'm Pat! 
 
 ## About Me
-IT support specialist building practical projects for real world scnerios
+IT support professional skilled in Active Directory, account management, and technical troubleshooting. These labs demonstrate hands-on experience with system administration, troubleshooting, and help desk workflows
   
 ## 👨‍💻 Active Directory:
   - [Configuring Active Directory Server](https://github.com/connorpj-tech/Active-Directory-Server)
